@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="(https://github.com/maximnom)">
-    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/49036543?v=4" />
+    <img width="60" height="60" src="https://avatars.githubusercontent.com/u/245977677?v=4" />
   </a>
   <br>
   <p>
